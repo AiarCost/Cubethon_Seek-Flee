@@ -201,7 +201,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 1
 --- !u!1 &349809598
@@ -376,7 +376,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 0
 --- !u!1001 &406519781
@@ -457,7 +457,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 0
 --- !u!1 &447870309 stripped
@@ -651,7 +651,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 1
 --- !u!1 &585669858
@@ -1005,7 +1005,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 1
 --- !u!1001 &822248709
@@ -1086,7 +1086,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 1
 --- !u!1 &880394333
@@ -1374,7 +1374,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 1
 --- !u!1001 &1093987787
@@ -1455,7 +1455,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 1
 --- !u!1001 &1249367251
@@ -1536,7 +1536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 0
 --- !u!1001 &1250478601
@@ -1617,7 +1617,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 0
 --- !u!1001 &1293107027
@@ -1698,7 +1698,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 0
 --- !u!1 &1297665049
@@ -1955,7 +1955,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 0
 --- !u!1001 &1607312569
@@ -2036,7 +2036,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 0
 --- !u!1 &1622655099
@@ -2212,7 +2212,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 0
 --- !u!1001 &1862883044
@@ -2293,7 +2293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 1
 --- !u!1001 &1863228819
@@ -2374,7 +2374,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 1
 --- !u!1001 &1946966306
@@ -2455,7 +2455,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 1
 --- !u!1 &1961845209
@@ -2639,6 +2639,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec673297c1a4c4d4799819cfc1d50975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerTarget: {fileID: 0}
+  PlayerTarget: {fileID: 447870314}
   maxSpeed: 10
   IsSeeking: 0
